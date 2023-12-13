@@ -6,3 +6,4 @@ Do this rep was my homewokr.
 here will be my homework or my programes.
 # Installation
 just clone this rep to your computer by copy this:
+git clone https://github.com/Nekityyy/Gudkinrep.git
