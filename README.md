@@ -7,4 +7,6 @@ here will be my homework or my programes.
 # Installation
 just clone this rep to your computer by copy this:
 git clone https://github.com/Nekityyy/Gudkinrep.git
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
+</div>
